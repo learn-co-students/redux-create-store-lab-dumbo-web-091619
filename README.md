@@ -13,9 +13,7 @@ Good news - you're opening a candy store! First, we just need to build an app to
 manage our inventory.
 
 For now, we'll want to create a store to keep track of all of the types of candy
-we sell. Later on, we'll learn how we can manage multiple pieces of pieces of
-state and more than one reducer, but for this challenge, the state is going to
-be a basic array of strings. By the end of this lab, you should be able to open `index.html`, use your store's `dispatch` function to add a
+we sell. Later on, we'll learn how we can manage multiple pieces of state and more than one reducer, but for this challenge, the state is going to be a basic array of strings. By the end of this lab, you should be able to open `index.html`, use your store's `dispatch` function to add a
 name of a type of candy, and see that name appear on the page.
 
 ## Instructions
